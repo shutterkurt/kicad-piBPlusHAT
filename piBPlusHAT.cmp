@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-22 BZR 5299)-product   date = Sat 20 Dec 2014 02:44:49 PM EST
+
+BeginCmp
+TimeStamp = /54958890;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54958960;
+Reference = C2;
+ValeurCmp = CP2;
+IdModule  = Capacitors_ThroughHole:Capacitor5x11RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54958DEC;
+Reference = C3;
+ValeurCmp = CP2;
+IdModule  = Capacitors_ThroughHole:Capacitor5x11RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5494ED49;
+Reference = P1;
+ValeurCmp = PiB+_IO;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /5494EFFA;
+Reference = P2;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /549588E9;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /549591E3;
+Reference = U1;
+ValeurCmp = 24C16;
+IdModule  = Power_Integrations:PDIP-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /54959212;
+Reference = U2;
+ValeurCmp = 24C16;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+EndListe
